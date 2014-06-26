@@ -1,0 +1,20 @@
+README File for Homework 2 - CS561
+
+Step 1 : unzip 
+Step 2 : Complie using < javac -classpath commons-collections-3.2.1.jar Main.java >
+Step 3 : Run using < java -classpath .:commons-collections-3.2.1.jar Main social-network-updated.txt direct-time-risk.txt STARTNODE GOALNODE >
+
+Replacing the arguments as per requirement.
+
+Step 4 : Upon successful execution you should see :
+
+Startnode is: Alice
+Goal is: Noah
+Greedy search finished successfully!
+Greedy search finished successfully!
+A* search finished successfully!
+A* search finished successfully! 
+
+Step 5 : The 4 output files shall be generated within the same folder.
+
+Have a nice day. 
