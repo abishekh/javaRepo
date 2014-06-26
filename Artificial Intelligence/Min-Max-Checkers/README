@@ -1,0 +1,26 @@
+README File for Homework 4 - CS561
+
+Step 1 : unzip 
+
+Step 2 : Complie using < javac -classpath commons-collections-3.2.1.jar Main.java >
+
+Step 3 : Run using < java -classpath .:commons-collections-3.2.1.jar Main input.txt output.txt 
+Replacing the arguments as per requirement.
+
+
+Step 4 : Upon successful execution you should see :
+/<FILEPATH>/input.txt
+Finished generating all boards
+Finished generating all boards
+Finished generating all boards
+Finished generating all boards
+Finished generating all boards
+Finished generating all boards
+
+
+5.The output.txt file will be generated in the local folder of th eproject or stand alone source file.
+
+6.You can just skip to the answer by doing a Ctrl+f and searching for 'first move:'
+
+
+
